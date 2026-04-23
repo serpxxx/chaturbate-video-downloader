@@ -4,7 +4,7 @@
   "description": "Chaturbate Downloader is a browser extension for users who want a direct way to capture public Chaturbate rooms and save supported recorded videos without relying on generic downloader sites or manual stream extraction.",
   "input": "./INPUT_SCHEMA.json",
   "name": "chaturbate-video-downloader",
-  "readme": "../README.md",
-  "title": "Chaturbate Downloader (Browser Extension)",
+  "readme": "../ACTOR.md",
+  "title": "Chaturbate Downloader",
   "version": "0.0"
 }
