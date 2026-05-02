@@ -22,6 +22,10 @@ Chaturbate Downloader is a browser extension for users who want a direct way to 
 
 ![Chaturbate Downloader workflow preview](https://raw.githubusercontent.com/serpxxx/chaturbate-video-downloader/refs/heads/main/assets/workflow-preview.webp)
 
+## Get it Here
+
+Get it here: https://serp.ly/chaturbate-downloader
+
 ## Table of Contents
 
 - [Why Chaturbate Downloader](#why-chaturbate-downloader)
