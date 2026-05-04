@@ -2,6 +2,12 @@
 
 > Record Chaturbate live streams and download saved videos as MP4 files for offline viewing.
 
+## Get it Here
+
+Get it here: https://serp.ly/chaturbate-video-downloader
+
+![Chaturbate Downloader](https://raw.githubusercontent.com/serpxxx/chaturbate-video-downloader/main/assets/workflow-preview.webp)
+
 Chaturbate Downloader is a browser extension for users who want a direct way to capture public Chaturbate rooms and save supported recorded videos without relying on generic downloader sites or manual stream extraction. It detects active media in your browser session, lets you choose from available qualities, and saves finished downloads as MP4 for easier playback later.
 
 - Record active Chaturbate live streams while they are still online
@@ -9,23 +15,6 @@ Chaturbate Downloader is a browser extension for users who want a direct way to 
 - Choose from the stream qualities exposed on the page
 - Save finished files as standard MP4
 - Use in-page controls, popup controls, or right-click actions
-
-## Links
-
-- :rocket: Get it here: [Chaturbate Downloader](https://serp.ly/chaturbate-downloader)
-- :new: Latest release: [GitHub Releases](https://github.com/serpapps/chaturbate-downloader/releases/latest)
-- :question: Help center: [SERP Help](https://help.serp.co/en/)
-- :beetle: Report bugs: [GitHub Issues](https://github.com/serpapps/chaturbate-downloader/issues)
-- :bulb: Request features: [Feature Requests](https://github.com/serpapps/chaturbate-downloader/issues)
-
-## Preview
-
-![Chaturbate Downloader workflow preview](https://raw.githubusercontent.com/serpxxx/chaturbate-video-downloader/refs/heads/main/assets/workflow-preview.webp)
-
-## Get it Here
-
-Get it here: https://serp.ly/chaturbate-downloader
-
 ## Table of Contents
 
 - [Why Chaturbate Downloader](#why-chaturbate-downloader)
@@ -169,7 +158,7 @@ No. Everything runs through the browser extension.
 
 ## License
 
-This repository includes an MIT license in [LICENSE.md](LICENSE.md).
+This repository includes an MIT license in [LICENSE.md](https://github.com/serpxxx/chaturbate-video-downloader/blob/main/LICENSE.md).
 
 ## About Chaturbate
 
