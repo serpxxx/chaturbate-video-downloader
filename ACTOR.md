@@ -1,4 +1,4 @@
-# Chaturbate Downloader
+# Chaturbate Video Downloader | How to Download Chaturbate Videos
 
 > Record Chaturbate live streams and download saved videos as MP4 files for offline viewing.
 
